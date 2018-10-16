@@ -1,0 +1,1 @@
+select name from costumers where state='RS'
